@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+outputs/
+plots/
+*.pth
+.ipynb_checkpoints/
