@@ -136,7 +136,7 @@ The assignment explores how agents learn via **interaction and feedback**, empha
 
 ## ⚖️ Code Attribution
 
-### ✅ Original Code (Developed by Team)
+### ✅ Original Code
 
 *   **`train_dqn.py`** — Main training logic, epsilon scheduling, reward clipping, and target sync
 *   **`evaluate_dqn.py`** — Evaluation, greedy policy toggle, and MP4 recording
@@ -157,11 +157,6 @@ The assignment explores how agents learn via **interaction and feedback**, empha
 
 This project demonstrates a successful end-to-end implementation of a Deep Q-Learning agent for Atari's Kung Fu Master. Through iterative experimentation and parameter optimization, the agent displayed measurable learning stability consistent with core RL theory. The study also bridges the conceptual gap between traditional reinforcement learning and modern LLM optimization, reinforcing how reward-driven learning generalizes across AI paradigms.
 
-* * *
-
-## 👥 Contributors
-
-**Ritwik Giri** - Lead Developer
 
 * * *
 
@@ -171,7 +166,6 @@ Special thanks to:
 
 *   Professor & TA team for providing clear assignment rubrics and evaluation structure
 *   OpenAI Gymnasium & PyTorch for open educational resources
-*   Team Members — **Akshaya**, **Charmy**, and **Chaitrali** — for collaboration and testing
 
 * * *
 
