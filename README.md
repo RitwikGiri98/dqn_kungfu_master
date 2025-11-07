@@ -32,7 +32,7 @@ The assignment explores how agents learn via **interaction and feedback**, empha
     source .venv/bin/activate
     
     # Activate environment (Windows)
-    # .venv\Scripts\activate
+     .venv\Scripts\activate
     
 
 ### 2️⃣ Install Dependencies
@@ -91,7 +91,6 @@ The assignment explores how agents learn via **interaction and feedback**, empha
     │   ├── trained_model.pth
     │   ├── demo_trained.mp4
     │   ├── demo_baseline.mp4
-    │   ├── comparison_baseline_vs_trained.mp4
     │
     ├── requirements.txt
     └── README.md
